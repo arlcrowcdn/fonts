@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'VK Sans Display';
+    src: url('VKSansDisplay-Medium.eot');
+    src: url('VKSansDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('VKSansDisplay-Medium.woff2') format('woff2'),
+        url('VKSansDisplay-Medium.woff') format('woff'),
+        url('VKSansDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VK Sans Display';
+    src: url('VKSansDisplay-DemiBold.eot');
+    src: url('VKSansDisplay-DemiBold.eot?#iefix') format('embedded-opentype'),
+        url('VKSansDisplay-DemiBold.woff2') format('woff2'),
+        url('VKSansDisplay-DemiBold.woff') format('woff'),
+        url('VKSansDisplay-DemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'VK Sans Display';
+    src: url('VKSansDisplay-Bold.eot');
+    src: url('VKSansDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+        url('VKSansDisplay-Bold.woff2') format('woff2'),
+        url('VKSansDisplay-Bold.woff') format('woff'),
+        url('VKSansDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
