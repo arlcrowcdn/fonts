@@ -27,7 +27,7 @@ https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/tagirdpnormal.css
 ### tt norms
 https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/ttnorms.css
 ### vk sans
-https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts/@base64/vksans.css
+https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/vksans.css
 ### yandex sans
 https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/yandexsans.css
 
