@@ -30,6 +30,8 @@ https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/ttnorms.css
 https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/vksans.css
 ### yandex sans
 https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/yandexsans.css
+### fira sans
+https://cdn.jsdelivr.net/gh/arlcrowcdn/fonts@base64/firasans.css
 
 
 
